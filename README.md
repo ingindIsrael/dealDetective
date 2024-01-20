@@ -38,3 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # Deal-Detective
 
 9b0d0466d29d77ca24b6caa78c836f958fed4501
+
+# dealDetective
+
+162efc48bf0125101690571a3f5fcf87cc95a1d9

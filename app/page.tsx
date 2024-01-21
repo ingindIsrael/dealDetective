@@ -13,9 +13,9 @@ const Home = async () => {
         <div className="flex max-xl:flex-col gap-16">
           <div className="flex flex-col justify-center"> 
             <p className="small-text">
-              Smart Shopping Starts Here:
+              Shop with Insight and Intelligence Today:
               <Image 
-                src="/assets/icons/arrow-right.svg"
+                src="/assets/icons/price-tag.svg"
                 alt="arrow-right"
                 width={16}
                 height={16}
@@ -23,12 +23,12 @@ const Home = async () => {
             </p>
 
             <h1 className="head-text">
-              Unleash the Power of
-              <span className="text-primary"> PriceWise</span>
+              Leverage the Virtues of
+              <span className="text-primary"> DealDetective</span>
             </h1>
 
             <p className="mt-6">
-              Powerful, self-serve product and growth analytics to help you convert, engage, and retain more.
+            Examine the evidence to boost your product’s performance and market presence with strategic analytics.
             </p>
 
             <Searchbar />

@@ -1,7 +1,10 @@
 ![DealDetective](https://github.com/ingindIsrael/dealDetective/assets/19786923/7912ab9b-2fbe-46dc-873f-bad5b9535d72)
 
+## Test it
 
-## Getting Started
+Click [here] (https://vercel.com/ingindisrael/deal-detective/HYKDMjJi3EnhoNqV5mYEGsXT9aiv)
+
+## Run it
 
 First, run the development server:
 

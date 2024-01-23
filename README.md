@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![DealDetective](https://github.com/ingindIsrael/dealDetective/assets/19786923/7912ab9b-2fbe-46dc-873f-bad5b9535d72)
+
+This is a [Nex![Uploading DealDetective.png…]()
+t.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https![Uploading DealDetective.png…]()
+://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 

@@ -2,7 +2,7 @@
 
 ## Test it
 
-Click [here] (https://vercel.com/ingindisrael/deal-detective/HYKDMjJi3EnhoNqV5mYEGsXT9aiv)
+Click [here](https://vercel.com/ingindisrael/deal-detective/HYKDMjJi3EnhoNqV5mYEGsXT9aiv)
 
 ## Run it
 
